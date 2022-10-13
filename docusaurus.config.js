@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'trustmarque', // Usually your GitHub org/user name.
-  projectName: 'accessibleappskit-docs', // Usually your repo name.
+  projectName: 'AccessibleAppsKit-Docs', // Usually your repo name.
   trailingSlash:false,
   deploymentBranch:'gh-pages',
   // Even if you don't use internalization, you can use this field to set useful
