@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaccessibleappskit_docs=self.webpackChunkaccessibleappskit_docs||[]).push([[685],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

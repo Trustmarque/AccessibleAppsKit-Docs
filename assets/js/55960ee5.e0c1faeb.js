@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaccessibleappskit_docs=self.webpackChunkaccessibleappskit_docs||[]).push([[121],{8070:s=>{s.exports=JSON.parse('[{"label":"Search","permalink":"/AccessibleAppsKit-Docs/docs/tags/search","count":1}]')}}]);
