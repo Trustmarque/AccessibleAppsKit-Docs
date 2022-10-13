@@ -3,10 +3,10 @@ title: FluentUI System Icons
 description: ""
 date: 2022-09-23T00:37:28.709Z
 preview: ""
-draft: true
+draft: false
 tags: [Icons,Fluent UI]
 categories: [Icon Sets]
-sidebar_position: 2
+sidebar_position: 3
 slug: fluentui-system-icons
 displayed_sidebar: iconsSideBar
 ---

@@ -3,10 +3,10 @@ title: Google Material Design
 description: ""
 date: 2022-09-23T00:37:28.709Z
 preview: ""
-draft: true
+draft: false
 tags: [Icons,Google, Material Design, Icons]
 categories: [Icon Sets]
-sidebar_position: 7
+sidebar_position: 4
 displayed_sidebar: iconsSideBar
 ---
 
