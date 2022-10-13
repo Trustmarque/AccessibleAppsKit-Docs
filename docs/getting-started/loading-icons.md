@@ -3,7 +3,7 @@ title: Loading Icon Sets
 description: ""
 date: 2022-09-23T00:37:28.709Z
 preview: ""
-draft: true
+draft: false
 tags: [Icons,Fluent UI]
 categories: [Icon Sets]
 sidebar_position: 4

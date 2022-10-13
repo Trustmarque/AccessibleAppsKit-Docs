@@ -3,7 +3,7 @@ title: Create a Theme
 description: ""
 date: 2022-09-23T00:42:44.553Z
 preview: ""
-draft: true
+draft: false
 tags: [Intro]
 categories: [Accessibility]
 sidebar_position: 6
