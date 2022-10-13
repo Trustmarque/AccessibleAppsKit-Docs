@@ -9,7 +9,7 @@ const config = {
   title: 'Accessible Apps Kit',
   tagline: 'A maker/developer tool to help you build more accessible Power Apps',
   url: 'https://trustmarque.github.io',
-  baseUrl: '/Accessible-Apps-Kit-docs/',
+  baseUrl: '/AccessibleAppsKit-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
